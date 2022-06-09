@@ -8,6 +8,7 @@ body {
 }
 body * {
     box-sizing: border-box;
+    overflow: hidden;
 }
 .main-register {
     width: 100vw;
